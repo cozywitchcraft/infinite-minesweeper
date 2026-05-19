@@ -1,0 +1,6 @@
+return {
+	RETRY_DELAY = 1,
+	FLOOD_DELAY = 7,
+	MIN_BUDGET = 100,
+	MAX_TRIES = 5,
+}

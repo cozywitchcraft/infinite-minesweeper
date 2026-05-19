@@ -1,0 +1,9 @@
+[package]
+name = "cozywitchcraft/infinite-mineswe"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+BloxstrapRPC = "pizzaboxer/bloxstrap-rpc-sdk@1.0.1"
+PacketProfiler = "pyseph/packetprofiler@2.3.0"
