@@ -24,8 +24,7 @@ As of May 19th, 2026, Roblox requires facial/ID verification to publish games pl
 
 ## Usage
 
-Open the place file provided in `./rbxl/infinite-minesweeper.rbxl` and use
-`rojo sync` to sync changes from the file tree.
+Open the place file provided in `./rbxl/infinite-minesweeper.rbxl` and use `rojo sync` to sync changes from the file system.
 
 ## License
 
